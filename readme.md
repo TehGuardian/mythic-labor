@@ -1,6 +1,7 @@
+# Mythic-Labor
+-- This file is part of the 'inventory' resource.
+# Items
 
-
--- This file is part of the 'inventory' resource.	
     {
 		name = "hunting_map_dark",
 		label = "Hunting Map (Dark)",
